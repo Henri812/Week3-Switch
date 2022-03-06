@@ -1,0 +1,2 @@
+C:\Users\Kasutja\source\repos\PersonalityTest\GradingIf\obj\Debug\GradingIf.csproj.AssemblyReference.cache
+C:\Users\Kasutja\source\repos\PersonalityTest\GradingIf\obj\Debug\GradingIf.csproj.CoreCompileInputs.cache

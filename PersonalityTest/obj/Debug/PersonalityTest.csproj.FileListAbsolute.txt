@@ -1,0 +1,7 @@
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\bin\Debug\PersonalityTest.exe.config
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\bin\Debug\PersonalityTest.exe
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\bin\Debug\PersonalityTest.pdb
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\obj\Debug\PersonalityTest.csproj.AssemblyReference.cache
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\obj\Debug\PersonalityTest.csproj.CoreCompileInputs.cache
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\obj\Debug\PersonalityTest.exe
+C:\Users\Kasutja\source\repos\PersonalityTest\PersonalityTest\obj\Debug\PersonalityTest.pdb
